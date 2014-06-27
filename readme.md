@@ -76,17 +76,17 @@ Released under the [`MIT`][license-url] license.
 [mocha-url]: https://github.com/visionmedia/mocha
 
 [npmjs-url]: http://npm.im/year-seconds
-[npmjs-img]: http://img.shields.io/badge/npm%20module-v{{version}}-brightgreen.svg
+[npmjs-img]: http://badge.fury.io/js/year-seconds.svg
 [npmjs-install]: https://nodei.co/npm/year-seconds.png?mini=true
 
 [license-url]: https://github.com/tunnckoCore/year-seconds/blob/master/license.md
 [license-img]: http://img.shields.io/badge/license-MIT-blue.svg
 
 [travis-url]: https://travis-ci.org/tunnckoCore/year-seconds
-[travis-img]: https://travis-ci.org/tunnckoCore/year-seconds.png?branch=master
+[travis-img]: https://travis-ci.org/tunnckoCore/year-seconds.svg?branch=master
 
 [depstat-url]: https://david-dm.org/tunnckoCore/year-seconds
-[depstat-img]: https://david-dm.org/tunnckoCore/year-seconds.png
+[depstat-img]: https://david-dm.org/tunnckoCore/year-seconds.svg
 
 [author-gittip-img]: http://img.shields.io/gittip/tunnckoCore.svg
 [author-gittip]: https://www.gittip.com/tunnckoCore
