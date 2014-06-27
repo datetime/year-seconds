@@ -76,7 +76,7 @@ Released under the [`MIT`][license-url] license.
 [mocha-url]: https://github.com/visionmedia/mocha
 
 [npmjs-url]: http://npm.im/year-seconds
-[npmjs-img]: http://badge.fury.io/js/year-seconds.svg
+[npmjs-img]: http://img.shields.io/npm/v/year-seconds.svg
 [npmjs-install]: https://nodei.co/npm/year-seconds.png?mini=true
 
 [license-url]: https://github.com/tunnckoCore/year-seconds/blob/master/license.md
