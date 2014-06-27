@@ -7,7 +7,7 @@
 
 > Install with [npm](https://npmjs.org)
 
-```bash
+```
 $ npm install year-seconds
 ```
 
@@ -39,7 +39,7 @@ yearSeconds(2016, true)
 ## Tests
 > As usual `npm test` **or** if you have [mocha][mocha-url] globally `mocha`
 
-```bash
+```
 $ npm test
 ```
 
