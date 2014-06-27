@@ -1,6 +1,6 @@
 {
   "name": "year-seconds",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get the number of seconds/milliseconds in leap/noleap year.",
   "main": "index.js",
   "scripts": {
