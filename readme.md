@@ -46,7 +46,7 @@ $ npm test
 
 ## API
 
-### leapYear([year[, ms]])
+### yearSeconds([year[, ms]])
 
 #### year
 
