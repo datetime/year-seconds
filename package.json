@@ -1,6 +1,6 @@
 {
   "name": "year-seconds",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the number of seconds/milliseconds in leap/noleap year.",
   "scripts": {
     "lint": "jshint index.js && jscs index.js --reporter inline",
