@@ -12,7 +12,7 @@ npm test
 ## API
 > For more use-cases see the [tests](./test.js)
 
-### [yearSeconds](./index.js#L47)
+### [yearSeconds](./index.js#L55)
 > Get the number of seconds/milliseconds in leap/noleap year.
 
 - `[year]` **{Number}** year number, pass to [year-days][year-days]
@@ -95,3 +95,4 @@ Released under the [`MIT`][license-url] license.
 _Powered and automated by [kdf](https://github.com/tunnckoCore), January 26, 2015_
 
 [day-seconds]: https://github.com/datetime/day-seconds
+[year-days]: https://github.com/datetime/year-days
