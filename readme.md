@@ -3,8 +3,8 @@
 > Get the number of seconds/milliseconds in leap/noleap year.
 
 ## Install
-```bash
-npm install year-seconds
+```
+npm i --save year-seconds
 npm test
 ```
 
@@ -92,7 +92,7 @@ Released under the [`MIT`][license-url] license.
 
 ***
 
-_Powered and automated by [kdf](https://github.com/tunnckoCore), January 26, 2015_
+_Powered and automated by [kdf](https://github.com/tunnckoCore), March 02, 2015_
 
 [day-seconds]: https://github.com/datetime/day-seconds
 [year-days]: https://github.com/datetime/year-days
